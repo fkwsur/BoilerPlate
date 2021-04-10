@@ -6,7 +6,7 @@ const db = require('./models');
 // const {user} = require('./models');
 const { handler } = require('./utils');
 const { errorHandler } = handler;
-
+//
 // db.sequelize
 //     .authenticate()
 //     .then(async () => {
