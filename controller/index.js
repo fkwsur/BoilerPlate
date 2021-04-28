@@ -1,5 +1,5 @@
-// const Controller = require('./');
+const searchController = require('./search');
 
-// module.exports = {
-
-// }
+module.exports = {
+  searchController,
+}

@@ -1,4 +1,5 @@
-// const Router = require('./');
+const searchRouter = require('./search');
 
-// module.exports = {
-// }
+module.exports = {
+    searchRouter
+}
